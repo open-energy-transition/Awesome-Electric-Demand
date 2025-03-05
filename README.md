@@ -11,7 +11,7 @@
 
 ## National Datasets
 
-* [Global Demand Data Map](https://globaldemanddatamap.org/) [[Code](https://github.com/global-demand-data-map)]
+* [Global Demand Data Map](https://globaldemanddatamap.org/) 
 
 ### Asia
 * [Turkey Demand Data 2020-2022](https://github.com/open-energy-transition/Awesome-Electric-Demand/blob/main/Data-files/Demand_Turkey_2020-2022.csv) ([Kaggle](https://www.kaggle.com/datasets/dharanikra/electrical-power-demand-in-turkey))
